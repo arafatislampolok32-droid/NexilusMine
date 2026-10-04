@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Nexilus Mine</string>
+    <string name="coin_name">Nexilus Coins</string>
+    <string name="coin_symbol">NXC</string>
+    <string name="bot_username">@NexilusMineBot</string>
+    <string name="payment_channel">@NexilusPayLogs</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_earn">Earn</string>
+    <string name="nav_mining">Mining</string>
+    <string name="nav_invite">Invite</string>
+    <string name="nav_wallet">Wallet</string>
+    <string name="earn_title">Earn Nexilus</string>
+    <string name="earn_subtitle">WATCH ADS • COMPLETE TASKS • EARN COINS</string>
+    <string name="invite_title">Your Network</string>
+    <string name="withdrawal_warning_bn">একবার উত্তোলন রিকোয়েস্ট করা হলে পুনরায় সেটা এডিট করা যাবে না। তাই আপনার Binance UID / bKash নাম্বার সঠিকভাবে প্রদান করুন।</string>
+    <string name="daily_task_incomplete_bn">দৈনিক বোনাস দাবি করতে আজ অন্তত ১টি বিজ্ঞাপন দেখুন বা মাইনিং শুরু করুন</string>
+    <string name="cd_user_avatar">User profile avatar</string>
+    <string name="cd_leaderboard">Open Leaderboard</string>
+    <string name="cd_admin_panel">Toggle Admin Console</string>
+    <string name="cd_pay_logs">Open NexilusPayLogs Channel Feed</string>
+    <string name="cd_settings">Open Settings</string>
+    <string name="cd_hero_banner">Nexilus Mine Quantum Reactor Core</string>
+</resources>

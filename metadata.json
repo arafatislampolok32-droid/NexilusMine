@@ -1,0 +1,6 @@
+{
+  "name": "Nexilus Mine",
+  "description": "Futuristic Web3 cloud mining, rewards, referral network, and instant BDT/USDT withdrawal platform with integrated Admin Console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
